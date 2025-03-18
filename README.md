@@ -20,7 +20,7 @@ Este proyecto permite agregar amigos a una lista y realizar un sorteo aleatorio 
 
 1. Clona este repositorio en tu máquina local:
 
-<li>link</li>
+[https://lumnor.github.io/amigo-secreto/ ](https://github.com/lumnor/amigo-secreto.git)
 
 2. Abre el archivo index.html en tu navegador.
 
